@@ -1,0 +1,14 @@
+{
+  "name": "apple",
+  "version": "1.0.0",
+  "description": "apple macbook air page",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tailwindcss -i ./input.css -o ./output.css --watch"
+  },
+  "author": "Sanket Talaviya",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
